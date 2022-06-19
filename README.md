@@ -4,7 +4,7 @@
   
   </div>
 
-<div align='center'> <p align="center"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%"> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% "/> <p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"/> </p><br><br><samp> Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Khaled Oweas Full-Stack Web developer 👨‍💻 🚀 working on <a href="https://github.com/GAMA-KSA">@GaMA-KSA :octocat:</a> </samp> <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align='center'> <p align="center"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%"> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% "/> <p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"/> </p><br><br><samp> Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="10px"> I'm Khaled Oweas Full-Stack Web developer 👨‍💻 🚀 working on <a href="https://github.com/GAMA-KSA">@GaMA-KSA :octocat:</a> </samp> <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   </div>
   <p align="left"> 
   I'm a dotnet Web Developer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
