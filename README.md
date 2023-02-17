@@ -11,7 +11,7 @@
     
   [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/khaledoweas) 
     
-- 🌱 I’m currently focusing on **Web Development & Clouding** and learning and practicing **ReactJS** everyday.
+- 🌱 I’m currently focusing on **Web Development & Clouding** and learning and practicing **Angular** & **dotnet Core** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about Anything [here](https://github.com/khaledOweas/KhaledOweas/issues/1)! I am happy to help.
 - ⚡ What I like to do: **I like so much exploring new things, new technologies ,  iot ...and coding**
