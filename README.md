@@ -1,6 +1,6 @@
 <div align='center'>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333FF02&lines=Hi%2C+it's+Khaled+Oweas;Full-Stack+.Net+Web+Developer+;Focusing+on+Web+%26+Clouding)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333FF02&lines=Hi%2C+it's+Khaled+Oweas;Full-Stack+Senior+%26+.Net+Web+Developer+;Focusing+on+Web+%26+Clouding)](https://git.io/typing-svg)
   
   </div>
 
